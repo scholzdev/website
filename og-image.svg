@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+  <rect width="1200" height="1200" fill="#fbfbfd"/>
+  <rect x="150" y="330" width="110" height="110" rx="26" fill="#0071e3"/>
+  <text x="205" y="405" font-family="-apple-system, 'SF Pro Text', Helvetica, Arial, sans-serif" font-size="54" font-weight="600" fill="#ffffff" text-anchor="middle">FS</text>
+  <text x="150" y="600" font-family="-apple-system, 'SF Pro Text', Helvetica, Arial, sans-serif" font-size="88" font-weight="600" letter-spacing="-1.5" fill="#1d1d1f">Florian Scholz</text>
+  <text x="150" y="668" font-family="-apple-system, 'SF Pro Text', Helvetica, Arial, sans-serif" font-size="36" font-weight="400" fill="#6e6e73">Software developer</text>
+  <text x="150" y="714" font-family="-apple-system, 'SF Pro Text', Helvetica, Arial, sans-serif" font-size="36" font-weight="400" fill="#6e6e73">Mobile &amp; machine learning</text>
+  <g font-family="-apple-system, 'SF Pro Text', Helvetica, Arial, sans-serif" font-size="26" font-weight="500" fill="#0071e3">
+    <rect x="150" y="770" width="150" height="52" rx="26" fill="#e8f2fd"/>
+    <text x="225" y="804" text-anchor="middle">Swift</text>
+    <rect x="316" y="770" width="220" height="52" rx="26" fill="#e8f2fd"/>
+    <text x="426" y="804" text-anchor="middle">Machine Learning</text>
+    <rect x="552" y="770" width="170" height="52" rx="26" fill="#e8f2fd"/>
+    <text x="637" y="804" text-anchor="middle">Robotics</text>
+  </g>
+</svg>
